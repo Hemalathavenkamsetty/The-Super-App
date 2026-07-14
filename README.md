@@ -308,9 +308,9 @@ Deploy the generated build.
 
 Your Name
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/hemalathavenkamsetty
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/hemalathavenkamsetty
 
 ---
 
